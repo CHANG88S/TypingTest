@@ -1,3 +1,11 @@
+Website 
+=================
+
+This was a glitch project where I had to make a typing test, I implemented dark mode/light mode switch because everyone likes saving their eyes
+
+Thank you, it's mostly functional, after you finish the typing test, you need to press space after the last word
+
+
 Welcome to Glitch
 =================
 
